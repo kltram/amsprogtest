@@ -2,7 +2,7 @@
 
 
 #### Step 1 Import the maven project into  eclipse
-####step 2 Right Click  the PRoject("amsprogtest") -->> select "Run US" -- Click "Java APplication" --> select the class "PersonController"
+#### step 2 Right Click  the Project -amsprogtest -- select Run US -- Click 'Java APplication'-- select the class 'PersonController'
 #### step 3 select the option and pass the value appropriate
 
 ### If selct the option - 1 "Add person"
